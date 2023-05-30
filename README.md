@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
