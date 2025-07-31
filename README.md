@@ -9,5 +9,7 @@
 🎯 I'm a quick learner, proactive team player, and committed to continuous learning 
 
 📬 Open to internships, full-time roles, or project collaborations in Java backend. Let’s connect!
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
